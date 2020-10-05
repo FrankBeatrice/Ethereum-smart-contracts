@@ -1,0 +1,26 @@
+- What is Ethereum?
+
+Ethereum is a software that ensures that data and small computer programs
+called "Smart Contracts" are copied and processed on all computers on a given network
+without a single cooridinator.
+
+Vision
+Ethereum's vision was to create a world of self-sustaining, censorship-resistant
+decentralised world computer.
+
+"A computer that can never be altered or controlled by a single power"
+
+Purpose
+Ethereum is programmable, so you can also use it for various different digital assets 
+
+Ethereum is a blockchain techology
+Chances are you have heard of bitcoin, the main difference between the two, is that bitcoin is strictly used as a transactional currency.
+Ethereum can be made to transfer funds, but to also trigger an action.
+
+- What is a blockchain?
+Software that that allows data to be stored globally on thousands of servers –
+ while letting anyone on the network see everyone else's entries in near real-time
+
+"Based on a peer-to-peer (P2P) dynamic system ("spefically a topology")" 
+blockchain is a distributed ledger technology (DLT) 
+
